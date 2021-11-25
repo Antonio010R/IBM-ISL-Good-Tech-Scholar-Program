@@ -7,7 +7,7 @@ People with limited experience with technology and poor financial literacy such 
 
 Abstract:
 
-Elder people are generally less inclined to use modern technology. People living in rural areas are unaware of how to utilize such platforms and their services. Often, they seek help from others, divulging their sensitive information like passwords and making them vulnerable to scams. To overcome these challenges, a simple web based application can be developed that helps all users to easily manage their finances online by themselves. 
+Elder people are generally less inclined to use modern technology. People living in rural areas are unaware of how to utilize such platforms and their services. Often, they seek help from others, divulging their sensitive information like passwords and making them vulnerable to scams. To overcome these challenges, a simple mobile based application can be developed that helps all users to easily manage their finances online by themselves. 
 
 The basic functions of the application that user sees are:
 
